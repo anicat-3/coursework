@@ -1,0 +1,15 @@
+.conditions .byn-info,
+.conditions .rub-info,
+.conditions .eur-info,
+.conditions .usd-info {
+    visibility: collapse;
+    display: none;
+}
+
+.conditions.BYN .byn-info,
+.conditions.RUB .rub-info,
+.conditions.EUR .eur-info,
+.conditions.USD .usd-info {
+    visibility: collapse;
+
+}

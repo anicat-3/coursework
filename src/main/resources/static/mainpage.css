@@ -1,0 +1,9 @@
+body {
+    background-image: url("/img/belveb-main-page.jpg"),
+    linear-gradient(180deg, rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.1));
+    background-color: azure;
+    background-position: center;
+    background-blend-mode: darken;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
